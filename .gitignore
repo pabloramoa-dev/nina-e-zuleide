@@ -1,0 +1,10 @@
+build/
+media/
+out/
+nina_source/
+sulflu_source/
+reels/
+__pycache__/
+*.pyc
+.env
+*.zip
