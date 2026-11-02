@@ -26,7 +26,7 @@
 ## Configuração necessária
 
 1. Crie um repositório vazio com o nome `nina-e-zuleide` em `https://github.com/new` e envie os arquivos deste pacote para a raiz.
-2. Em **Settings → Secrets and variables → Actions**, configure `SILICONFLOW_API_KEY` (roteiros originais) e `SILICONFLOW_API_KEY` (imagens ilustrativas de dois quadros). Secrets já salvos em outros repositórios não são automaticamente compartilhados.
+2. Em **Settings → Secrets and variables → Actions**, configure `SILICONFLOW_API_KEY` (roteiros originais e imagens ilustrativas dos dois quadros). Secrets já salvos em outros repositórios não são automaticamente compartilhados.
 3. Em **Actions → Nina e Zuleide - gerar episodio → Run workflow**, informe um número de 1 a 50. O checkbox `modo_teste` gera apenas demonstrações para QA, não material para publicação.
 4. Depois da execução, baixe o artifact `nina-zuleide-ep-XX`, que inclui MP4 real, roteiro, timeline e imagens.
 
@@ -34,7 +34,7 @@
 
 ## Fonte principal da API de imagens
 
-Documentação SiliconFlow: https://siliconflow.readme.io/reference/imagegeneration — endpoint `POST https://api.siliconflow.cn/v1/images/generations`, formato `768x1024` e modelo `black-forest-labs/FLUX.1-schnell`. Configurar limite de gastos na conta do provedor. **Nunca gravar chaves em código ou artefatos.**
+Documentação SiliconFlow: https://siliconflow.readme.io/reference/imagegeneration — endpoint `POST https://api.siliconflow.com/v1/images/generations`, formato `768x1024` e modelo `black-forest-labs/FLUX.1-schnell`. Configurar limite de gastos na conta do provedor. **Nunca gravar chaves em código ou artefatos.**
 
 ## Custo aproximado das imagens
 
@@ -48,7 +48,7 @@ python scripts/gerar_roteiro.py --episode 1 --demo
 python scripts/gerar_imagens.py --demo
 ```
 
-Os arquivos de demonstração não contêm falas produzidas e portanto não são um episódio final. Para uma produção, use as duas APIs configuradas.
+Os arquivos de demonstração não contêm falas produzidas e portanto não são um episódio final. Para uma produção, configure a chave SiliconFlow.
 
 
 ## Verificações adicionadas
