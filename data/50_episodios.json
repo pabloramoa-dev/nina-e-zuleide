@@ -1,0 +1,802 @@
+[
+  {
+    "numero": 1,
+    "titulo": "O presente para a ex",
+    "gancho_antecipacao": "O entregador leu o nome da ex na etiqueta, e o pior não foi a entrega.",
+    "situacao": "Nina suspeita que um entregador levou flores ao apartamento do antigo amor dele.",
+    "virada_final": "A cesta era para o aniversário da gata Rainha e ele era o entregador escalado por acaso.",
+    "inspiracao_id": "S01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com nina suspeita que um entregador levou flores ao apartamento do antigo amor dele. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de nina suspeita que um entregador levou flores ao apartamento do antigo amor dele., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 2,
+    "titulo": "O bilhete no elevador",
+    "gancho_antecipacao": "Nina achou um bilhete romântico no elevador, mas a assinatura mudou tudo.",
+    "situacao": "Uma declaração sem remetente provoca competição entre vizinhas para descobrir o admirador.",
+    "virada_final": "O bilhete era um convite para aula de escrita romântica da biblioteca.",
+    "inspiracao_id": "S02",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com uma declaração sem remetente provoca competição entre vizinhas para descobrir o admirador. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de uma declaração sem remetente provoca competição entre vizinhas para descobrir o admirador., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 3,
+    "titulo": "Flores no lugar da pizza",
+    "gancho_antecipacao": "A pizza não chegou, mas a Nina recebeu doze rosas e achou que era um pedido de namoro.",
+    "situacao": "O motoboy troca duas entregas e Nina publica um agradecimento apaixonado no grupo.",
+    "virada_final": "As rosas pertenciam a uma homenagem da portaria e a pizza foi parar no ensaio musical.",
+    "inspiracao_id": "S03",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com o motoboy troca duas entregas e nina publica um agradecimento apaixonado no grupo. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de o motoboy troca duas entregas e nina publica um agradecimento apaixonado no grupo., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 4,
+    "titulo": "O solteiro que não entendeu",
+    "gancho_antecipacao": "Nina encontrou um solteiro perfeito, mas ele conseguiu rejeitá-la sem perceber.",
+    "situacao": "A indireta de Nina é interpretada de forma literal pelo morador do 804.",
+    "virada_final": "O homem tinha entendido que Nina queria ajuda para cadastrar o perfil da prima.",
+    "inspiracao_id": "S04",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com a indireta de nina é interpretada de forma literal pelo morador do 804. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de a indireta de nina é interpretada de forma literal pelo morador do 804., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 5,
+    "titulo": "A resposta no story",
+    "gancho_antecipacao": "O galã respondeu ao story de Nina e em cinco mensagens virou assunto da assembleia.",
+    "situacao": "Uma resposta ambígua no story cria um convite de encontro entre moradores.",
+    "virada_final": "A mensagem era da loja do condomínio anunciando a promoção da semana.",
+    "inspiracao_id": "S05",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com uma resposta ambígua no story cria um convite de encontro entre moradores. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de uma resposta ambígua no story cria um convite de encontro entre moradores., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 6,
+    "titulo": "O encontro duplo no restaurante",
+    "gancho_antecipacao": "Zuleide arranjou um encontro para Nina e terminou convidada pela mesa errada.",
+    "situacao": "Zuleide tenta aproximar Nina de um rapaz que se sentou atrás delas.",
+    "virada_final": "Os dois homens eram animadores contratados para uma festa temática no restaurante.",
+    "inspiracao_id": "S06",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com zuleide tenta aproximar nina de um rapaz que se sentou atrás delas. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de zuleide tenta aproximar nina de um rapaz que se sentou atrás delas., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 7,
+    "titulo": "Café com o vizinho",
+    "gancho_antecipacao": "Nina desceu para pegar café e voltou dizendo que estava noiva.",
+    "situacao": "Um morador interrompe uma chamada para oferecer café e Nina confunde cortesia com paquera.",
+    "virada_final": "Ele só queria a senha do wi-fi do salão, e o anel era parte de um teatro.",
+    "inspiracao_id": "S07",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um morador interrompe uma chamada para oferecer café e nina confunde cortesia com paquera. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um morador interrompe uma chamada para oferecer café e nina confunde cortesia com paquera., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 8,
+    "titulo": "Bilhetes pela janela",
+    "gancho_antecipacao": "Nina recebeu um bilhete da janela vizinha e achou que era um pedido secreto.",
+    "situacao": "Bilhetes são trocados entre janelas do prédio até Zuleide organizar um encontro no hall.",
+    "virada_final": "O remetente pedia a devolução de uma planta que o vento carregara.",
+    "inspiracao_id": "S08",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com bilhetes são trocados entre janelas do prédio até zuleide organizar um encontro no hall. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de bilhetes são trocados entre janelas do prédio até zuleide organizar um encontro no hall., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 9,
+    "titulo": "O buquê gigante",
+    "gancho_antecipacao": "Nina recebeu um buquê tão grande que precisou de ajuda para passar na porta.",
+    "situacao": "Um entregador fantasiado aparece com flores destinadas a uma moradora.",
+    "virada_final": "Era cenário encomendado para um ensaio de fotos do salão de festas.",
+    "inspiracao_id": "S09",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um entregador fantasiado aparece com flores destinadas a uma moradora. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um entregador fantasiado aparece com flores destinadas a uma moradora., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 10,
+    "titulo": "A carona suspeita",
+    "gancho_antecipacao": "Nina viu um vizinho com flores no carro e criou um romance onde não havia.",
+    "situacao": "Nina suspeita de uma surpresa entre moradores e convence Zuleide a investigar.",
+    "virada_final": "O homem ajudava a organizar a formatura da filha da porteira.",
+    "inspiracao_id": "S10",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com nina suspeita de uma surpresa entre moradores e convence zuleide a investigar. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de nina suspeita de uma surpresa entre moradores e convence zuleide a investigar., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 11,
+    "titulo": "Dois namorados, um elevador",
+    "gancho_antecipacao": "Nina marcou dois encontros no prédio e os dois namorados entraram no mesmo elevador — mas nenhum sabia do outro.",
+    "situacao": "Nina aceita dois encontros com paqueras diferentes em horários próximos e pede que Zuleide cubra a confusão.",
+    "virada_final": "Os dois pretendentes são primos e tinham ido juntos ao quiz beneficente da portaria.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: ação e personagens ambientais inspirados em nina aceita dois encontros com paqueras diferentes em horários próximos e pede que zuleide cubra a confusão. Ilustração de revista moderna sem texto.",
+    "ilustracao_zuleide": "Ponto de vista diferente de Zuleide: provas visuais, detalhes do hall e pistas contraditórias sobre nina aceita dois encontros com paqueras diferentes em horários próximos e pede que zuleide cubra a confusão. Sem texto."
+  },
+  {
+    "numero": 12,
+    "titulo": "O namorado do 702",
+    "gancho_antecipacao": "Nina jurou que o novo vizinho era seu namorado, até a placa na porta revelar o contrário.",
+    "situacao": "Um ator ensaia falas românticas no corredor e Nina pensa que são para ela.",
+    "virada_final": "O apartamento do 702 abriga uma oficina comunitária de teatro.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um ator ensaia falas românticas no corredor e nina pensa que são para ela. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um ator ensaia falas românticas no corredor e nina pensa que são para ela., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 13,
+    "titulo": "A aliança emprestada",
+    "gancho_antecipacao": "Zuleide viu uma aliança no dedo de Nina e o grupo quase marcou o casamento.",
+    "situacao": "Nina experimenta joias emprestadas e passa o dia no elevador exibindo a mão.",
+    "virada_final": "A aliança era um acessório de um concurso de fantasias.",
+    "inspiracao_id": "T02",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com nina experimenta joias emprestadas e passa o dia no elevador exibindo a mão. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de nina experimenta joias emprestadas e passa o dia no elevador exibindo a mão., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 14,
+    "titulo": "Os três ex no mesmo jantar",
+    "gancho_antecipacao": "Nina jurou que não veria mais nenhum ex. O porteiro resolveu convidar os três para o mesmo jantar.",
+    "situacao": "Nina encontra três antigos namorados na degustação do restaurante do prédio e tenta parecer indiferente.",
+    "virada_final": "Os três foram convocados para provar o novo cardápio e acabam dando conselhos hilários para Nina.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: ação e personagens ambientais inspirados em nina encontra três antigos namorados na degustação do restaurante do prédio e tenta parecer indiferente. Ilustração de revista moderna sem texto.",
+    "ilustracao_zuleide": "Ponto de vista diferente de Zuleide: provas visuais, detalhes do hall e pistas contraditórias sobre nina encontra três antigos namorados na degustação do restaurante do prédio e tenta parecer indiferente. Sem texto."
+  },
+  {
+    "numero": 15,
+    "titulo": "A mala do sedutor",
+    "gancho_antecipacao": "O morador levou duas malas ao apartamento de Nina; o porteiro fez outra história.",
+    "situacao": "O corredor comenta que um hóspede misterioso passará a noite na casa de Nina.",
+    "virada_final": "O visitante era técnico da lavanderia levando roupas devolvidas.",
+    "inspiracao_id": "T02",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com o corredor comenta que um hóspede misterioso passará a noite na casa de nina. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de o corredor comenta que um hóspede misterioso passará a noite na casa de nina., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 16,
+    "titulo": "O perfume do elevador",
+    "gancho_antecipacao": "Nina escolheu o sobrenome do novo amor antes de descobrir de onde vinha o perfume.",
+    "situacao": "Um homem perfumado e elegante aparece no elevador diariamente.",
+    "virada_final": "Ele apresenta amostras de uma loja de fragrâncias do shopping.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um homem perfumado e elegante aparece no elevador diariamente. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um homem perfumado e elegante aparece no elevador diariamente., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 17,
+    "titulo": "O jantar do amante imaginário",
+    "gancho_antecipacao": "Zuleide descobriu um jantar para dois e acusou Nina de ter um amante secreto. A convidada derrubou a teoria.",
+    "situacao": "Nina enfeita a varanda para uma noite especial e se recusa a contar com quem vai jantar.",
+    "virada_final": "A convidada é a vencedora do sorteio gastronômico do condomínio, uma senhora que adora Zuleide.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: ação e personagens ambientais inspirados em nina enfeita a varanda para uma noite especial e se recusa a contar com quem vai jantar. Ilustração de revista moderna sem texto.",
+    "ilustracao_zuleide": "Ponto de vista diferente de Zuleide: provas visuais, detalhes do hall e pistas contraditórias sobre nina enfeita a varanda para uma noite especial e se recusa a contar com quem vai jantar. Sem texto."
+  },
+  {
+    "numero": 18,
+    "titulo": "A pizza com coração",
+    "gancho_antecipacao": "Nina viu um coração desenhado na pizza e pensou que o pizzaiolo estava apaixonado.",
+    "situacao": "Um pedido vem com um coração de molho e bilhete carinhoso.",
+    "virada_final": "O pedido tinha saído para um concurso de casais de uma escola de culinária.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um pedido vem com um coração de molho e bilhete carinhoso. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um pedido vem com um coração de molho e bilhete carinhoso., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 19,
+    "titulo": "O recado no retrovisor",
+    "gancho_antecipacao": "Um bilhete no carro parecia um adeus, mas virou a maior festa do prédio.",
+    "situacao": "Nina confunde um recado deixado para o motorista do prédio com despedida romântica.",
+    "virada_final": "O recado era parte da caça ao tesouro do condomínio.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com nina confunde um recado deixado para o motorista do prédio com despedida romântica. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de nina confunde um recado deixado para o motorista do prédio com despedida romântica., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 20,
+    "titulo": "O encontro da academia",
+    "gancho_antecipacao": "Nina achou que o treino a dois era um caso escondido.",
+    "situacao": "Um casal de treino recebe mensagens cheias de corações no chat da academia.",
+    "virada_final": "Os símbolos eram a divulgação de competição esportiva entre equipes.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um casal de treino recebe mensagens cheias de corações no chat da academia. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um casal de treino recebe mensagens cheias de corações no chat da academia., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 21,
+    "titulo": "O gato do pretendente",
+    "gancho_antecipacao": "O namorado ideal de Nina pediu para conhecer Rainha, mas não era quem ela pensava.",
+    "situacao": "Nina convida um morador para ver um gato famoso do prédio.",
+    "virada_final": "O rapaz é fotógrafo contratado para calendário de animais resgatados.",
+    "inspiracao_id": "T02",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com nina convida um morador para ver um gato famoso do prédio. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de nina convida um morador para ver um gato famoso do prédio., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 22,
+    "titulo": "A serenata errada",
+    "gancho_antecipacao": "Nina abriu a janela para uma serenata e o cantor chamou outro nome.",
+    "situacao": "Uma música romântica toca no jardim sob a janela de Nina.",
+    "virada_final": "O cantor ensaiava o número da festa de aniversário da síndica.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com uma música romântica toca no jardim sob a janela de nina. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de uma música romântica toca no jardim sob a janela de nina., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 23,
+    "titulo": "O chapéu no sofá",
+    "gancho_antecipacao": "O chapéu de um homem no sofá causou uma reunião extraordinária.",
+    "situacao": "Zuleide vê um chapéu masculino na casa de Nina durante chamada de vídeo.",
+    "virada_final": "O chapéu era de um manequim usado num bazar beneficente.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com zuleide vê um chapéu masculino na casa de nina durante chamada de vídeo. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de zuleide vê um chapéu masculino na casa de nina durante chamada de vídeo., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 24,
+    "titulo": "O porteiro cupido",
+    "gancho_antecipacao": "O porteiro combinou um encontro e esqueceu de contar a parte mais importante.",
+    "situacao": "Nina recebe um convite anônimo com local e horário e Zuleide incentiva.",
+    "virada_final": "O encontro era com a nova professora de dança para uma matrícula gratuita.",
+    "inspiracao_id": "T02",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com nina recebe um convite anônimo com local e horário e zuleide incentiva. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de nina recebe um convite anônimo com local e horário e zuleide incentiva., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 25,
+    "titulo": "O banho de confete",
+    "gancho_antecipacao": "Nina jogou confete achando que encontrou um casal de noivos.",
+    "situacao": "Nina descobre um salão fechado, um senhor elegante e uma mulher de vestido azul.",
+    "virada_final": "Era apresentação de dança de Zuleide; o prêmio foi uma cesta de café.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com nina descobre um salão fechado, um senhor elegante e uma mulher de vestido azul. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de nina descobre um salão fechado, um senhor elegante e uma mulher de vestido azul., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 26,
+    "titulo": "O entregador apaixonado",
+    "gancho_antecipacao": "O entregador disse que voltaria por Nina e ela já arrumou a sala.",
+    "situacao": "Um entregador deixa mensagem sobre retorno ao prédio e Nina interpreta como romance.",
+    "virada_final": "Ele queria recolher uma caixa com endereço errado.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um entregador deixa mensagem sobre retorno ao prédio e nina interpreta como romance. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um entregador deixa mensagem sobre retorno ao prédio e nina interpreta como romance., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 27,
+    "titulo": "O áudio para o amante errado",
+    "gancho_antecipacao": "Nina enviou um áudio sobre seu novo amor para o grupo inteiro e o prédio achou que era um homem casado.",
+    "situacao": "Nina manda mensagem ambígua para Zuleide sobre um homem que passou a noite em sua sala.",
+    "virada_final": "Era um manequim para um bazar beneficente e Nina queria apenas provocar a amiga.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: ação e personagens ambientais inspirados em nina manda mensagem ambígua para zuleide sobre um homem que passou a noite em sua sala. Ilustração de revista moderna sem texto.",
+    "ilustracao_zuleide": "Ponto de vista diferente de Zuleide: provas visuais, detalhes do hall e pistas contraditórias sobre nina manda mensagem ambígua para zuleide sobre um homem que passou a noite em sua sala. Sem texto."
+  },
+  {
+    "numero": 28,
+    "titulo": "O encontro da máscara",
+    "gancho_antecipacao": "Nina se apaixonou por um homem numa festa de máscaras e esqueceu de perguntar o nome.",
+    "situacao": "Nina dança com uma figura misteriosa no baile de condomínio.",
+    "virada_final": "O desconhecido era o professor de teatro disfarçado para coordenar o jogo.",
+    "inspiracao_id": "T03",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com nina dança com uma figura misteriosa no baile de condomínio. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de nina dança com uma figura misteriosa no baile de condomínio., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 29,
+    "titulo": "O anel na piscina",
+    "gancho_antecipacao": "Nina encontrou um anel na piscina e anunciou casamento.",
+    "situacao": "Um anel perdido circula no grupo e Nina diz conhecer o dono.",
+    "virada_final": "Era o anel cenográfico da apresentação infantil.",
+    "inspiracao_id": "T02",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um anel perdido circula no grupo e nina diz conhecer o dono. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um anel perdido circula no grupo e nina diz conhecer o dono., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 30,
+    "titulo": "O doutor do elevador",
+    "gancho_antecipacao": "Nina encontrou um médico no elevador, mas a profissão era uma grande confusão.",
+    "situacao": "Um rapaz de jaleco fala com Nina enquanto carrega uma pasta.",
+    "virada_final": "Ele era ator ensaiando personagem para uma campanha educativa.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um rapaz de jaleco fala com nina enquanto carrega uma pasta. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um rapaz de jaleco fala com nina enquanto carrega uma pasta., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 31,
+    "titulo": "A senha do apartamento",
+    "gancho_antecipacao": "Nina deu uma senha ao vizinho e Zuleide achou que era algo íntimo.",
+    "situacao": "Uma mensagem sobre senha chega para a pessoa errada no prédio.",
+    "virada_final": "A senha era de entrada no salão para o bingo beneficente sem apostas.",
+    "inspiracao_id": "T02",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com uma mensagem sobre senha chega para a pessoa errada no prédio. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de uma mensagem sobre senha chega para a pessoa errada no prédio., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 32,
+    "titulo": "O bilhete da portaria",
+    "gancho_antecipacao": "Um recado dizia que Nina era inesquecível, mas havia uma letra miúda.",
+    "situacao": "A portaria encontra um bilhete assinado com elogio misterioso.",
+    "virada_final": "Era avaliação de atendimento da equipe da recepção.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com a portaria encontra um bilhete assinado com elogio misterioso. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de a portaria encontra um bilhete assinado com elogio misterioso., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 33,
+    "titulo": "A mensagem de madrugada",
+    "gancho_antecipacao": "Nina recebeu um coração às duas da manhã e passou o dia investigando.",
+    "situacao": "Uma mensagem com coração chega num grupo errado de moradores.",
+    "virada_final": "Era aviso do aplicativo de doações para o abrigo de animais.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com uma mensagem com coração chega num grupo errado de moradores. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de uma mensagem com coração chega num grupo errado de moradores., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 34,
+    "titulo": "O ex no churrasco",
+    "gancho_antecipacao": "Nina chegou ao churrasco com novo namorado e descobriu que o ex estava na churrasqueira.",
+    "situacao": "Nina leva um novo paquera ao churrasco do condomínio e o ex, escalado para a grelha, aparece cheio de conselhos.",
+    "virada_final": "Quando acaba o carvão, Nina e os dois fazem as pazes para salvar o almoço coletivo.",
+    "inspiracao_id": "T03",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: ação e personagens ambientais inspirados em nina leva um novo paquera ao churrasco do condomínio e o ex, escalado para a grelha, aparece cheio de conselhos. Ilustração de revista moderna sem texto.",
+    "ilustracao_zuleide": "Ponto de vista diferente de Zuleide: provas visuais, detalhes do hall e pistas contraditórias sobre nina leva um novo paquera ao churrasco do condomínio e o ex, escalado para a grelha, aparece cheio de conselhos. Sem texto."
+  },
+  {
+    "numero": 35,
+    "titulo": "O namorado do aplicativo",
+    "gancho_antecipacao": "Nina marcou um café com um homem que parecia conhecer todos os moradores.",
+    "situacao": "O perfil de Nina combina com alguém muito conhecido do prédio.",
+    "virada_final": "Ele administra o app comunitário de troca de livros e confundiu o encontro.",
+    "inspiracao_id": "T02",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com o perfil de nina combina com alguém muito conhecido do prédio. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de o perfil de nina combina com alguém muito conhecido do prédio., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 36,
+    "titulo": "As flores do síndico",
+    "gancho_antecipacao": "Zuleide viu flores na mesa da portaria e acusou Nina de esconder um romance.",
+    "situacao": "Alguém deixa buquês iguais em vários andares.",
+    "virada_final": "A associação de moradores homenageava os voluntários da coleta seletiva.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com alguém deixa buquês iguais em vários andares. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de alguém deixa buquês iguais em vários andares., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 37,
+    "titulo": "O jantar com o fiscal",
+    "gancho_antecipacao": "Nina convidou um homem sério para jantar; a gravata dele enganou todo mundo.",
+    "situacao": "Um visitante rigoroso anota coisas no hall enquanto fala com Nina.",
+    "virada_final": "Ele fazia avaliação de acessibilidade para o condomínio.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um visitante rigoroso anota coisas no hall enquanto fala com nina. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um visitante rigoroso anota coisas no hall enquanto fala com nina., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 38,
+    "titulo": "O galã do elevador parado",
+    "gancho_antecipacao": "Nina ficou presa com um galã, combinou um encontro e descobriu o segredo no térreo.",
+    "situacao": "Uma pane momentânea no elevador cria uma conversa engraçada entre Nina e um novo morador.",
+    "virada_final": "O rapaz queria contratar Nina para fotografar seu pequeno negócio; o encontro vira trabalho e Zuleide ganha desconto.",
+    "inspiracao_id": "T03",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: ação e personagens ambientais inspirados em uma pane momentânea no elevador cria uma conversa engraçada entre nina e um novo morador. Ilustração de revista moderna sem texto.",
+    "ilustracao_zuleide": "Ponto de vista diferente de Zuleide: provas visuais, detalhes do hall e pistas contraditórias sobre uma pane momentânea no elevador cria uma conversa engraçada entre nina e um novo morador. Sem texto."
+  },
+  {
+    "numero": 39,
+    "titulo": "O vizinho influencer",
+    "gancho_antecipacao": "Nina pensou que um influencer tinha feito um vídeo romântico para ela.",
+    "situacao": "Um morador grava Reels com declarações frente ao prédio.",
+    "virada_final": "Ele divulga uma campanha de adoção de cães da região.",
+    "inspiracao_id": "T02",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um morador grava reels com declarações frente ao prédio. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um morador grava reels com declarações frente ao prédio., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 40,
+    "titulo": "A festa surpresa errada",
+    "gancho_antecipacao": "Nina entrou numa festa surpresa achando que era um pedido de namoro.",
+    "situacao": "Luzes apagadas, balões e cartazes fazem Nina imaginar uma surpresa apaixonada.",
+    "virada_final": "Era a comemoração de cinquenta anos do zelador.",
+    "inspiracao_id": "T03",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com luzes apagadas, balões e cartazes fazem nina imaginar uma surpresa apaixonada. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de luzes apagadas, balões e cartazes fazem nina imaginar uma surpresa apaixonada., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 41,
+    "titulo": "O concurso de casais",
+    "gancho_antecipacao": "Nina se inscreveu em concurso de casais sem ter namorado e Zuleide fez a inscrição piorar.",
+    "situacao": "Um formulário pede duas pessoas para um concurso no salão.",
+    "virada_final": "O concurso premiava melhores duplas de dança de amizade.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um formulário pede duas pessoas para um concurso no salão. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um formulário pede duas pessoas para um concurso no salão., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 42,
+    "titulo": "O presente anônimo",
+    "gancho_antecipacao": "Uma caixa enorme apareceu no apartamento de Nina; Zuleide chamou até o conselho.",
+    "situacao": "Uma caixa delicadamente embrulhada é entregue sem nome de remetente.",
+    "virada_final": "Era um kit de jardinagem enviado pela horta comunitária.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com uma caixa delicadamente embrulhada é entregue sem nome de remetente. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de uma caixa delicadamente embrulhada é entregue sem nome de remetente., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 43,
+    "titulo": "A carta de amor antiga",
+    "gancho_antecipacao": "Nina encontrou uma carta romântica na escada e pensou que tinha pretendente.",
+    "situacao": "Uma carta amarelada cai de um livro emprestado.",
+    "virada_final": "Era carta da avó de Zuleide usada numa exposição de memórias.",
+    "inspiracao_id": "T03",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com uma carta amarelada cai de um livro emprestado. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de uma carta amarelada cai de um livro emprestado., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 44,
+    "titulo": "O coração na janela",
+    "gancho_antecipacao": "Um coração vermelho na janela do 605 causou disputa de pretendentes.",
+    "situacao": "Um adereço em forma de coração aparece na janela de um morador.",
+    "virada_final": "Era o sinal combinado para arrecadar agasalhos no bloco.",
+    "inspiracao_id": "T02",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um adereço em forma de coração aparece na janela de um morador. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um adereço em forma de coração aparece na janela de um morador., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 45,
+    "titulo": "O churrasco do apartamento 9",
+    "gancho_antecipacao": "Nina achou que tinha convite exclusivo; o prédio todo recebeu a mesma mensagem.",
+    "situacao": "Mensagens com elogios circulam convidando moradores para um almoço.",
+    "virada_final": "O anfitrião usou mala-direta de forma atrapalhada para festa colaborativa.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com mensagens com elogios circulam convidando moradores para um almoço. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de mensagens com elogios circulam convidando moradores para um almoço., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 46,
+    "titulo": "O amante do último andar",
+    "gancho_antecipacao": "Nina jurou que o homem do último andar tinha três amantes — só ela não sabia de onde vinham as flores.",
+    "situacao": "Um vizinho recebe mensagens carinhosas de várias pessoas e Nina suspeita de uma rede de casos escondidos.",
+    "virada_final": "Ele organizava a rede de entrega de flores para as aniversariantes do condomínio.",
+    "inspiracao_id": "T03",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: ação e personagens ambientais inspirados em um vizinho recebe mensagens carinhosas de várias pessoas e nina suspeita de uma rede de casos escondidos. Ilustração de revista moderna sem texto.",
+    "ilustracao_zuleide": "Ponto de vista diferente de Zuleide: provas visuais, detalhes do hall e pistas contraditórias sobre um vizinho recebe mensagens carinhosas de várias pessoas e nina suspeita de uma rede de casos escondidos. Sem texto."
+  },
+  {
+    "numero": 47,
+    "titulo": "O duplo check",
+    "gancho_antecipacao": "Nina interpretou os dois tiques azuis como declaração de amor e parou de responder.",
+    "situacao": "Uma conversa sobre convites vira confusão por mensagens visualizadas.",
+    "virada_final": "A pessoa era responsável por confirmar entrega de equipamentos da festa.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com uma conversa sobre convites vira confusão por mensagens visualizadas. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de uma conversa sobre convites vira confusão por mensagens visualizadas., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 48,
+    "titulo": "A receita do amor",
+    "gancho_antecipacao": "Nina marcou jantar com um cozinheiro e acabou numa competição culinária.",
+    "situacao": "Um rapaz manda uma receita carinhosa e Nina acha que é bilhete de paquera.",
+    "virada_final": "A receita era o desafio mensal de culinária do condomínio.",
+    "inspiracao_id": "T02",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com um rapaz manda uma receita carinhosa e nina acha que é bilhete de paquera. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de um rapaz manda uma receita carinhosa e nina acha que é bilhete de paquera., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 49,
+    "titulo": "O beijo no palco",
+    "gancho_antecipacao": "Nina viu duas silhuetas se aproximando no palco e anunciou um romance proibido.",
+    "situacao": "Uma cena de teatro ensaiada atrás de cortina desperta fofocas.",
+    "virada_final": "Os atores apenas praticavam uma cena cômica sem beijo real.",
+    "inspiracao_id": "T03",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com uma cena de teatro ensaiada atrás de cortina desperta fofocas. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de uma cena de teatro ensaiada atrás de cortina desperta fofocas., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  },
+  {
+    "numero": 50,
+    "titulo": "O solteiro misterioso do último andar",
+    "gancho_antecipacao": "Nina recebeu um convite do último andar e levou Zuleide para investigar.",
+    "situacao": "A vizinhança fala de um morador que recebe mensagens românticas de várias pessoas.",
+    "virada_final": "Ele organiza um clube de livros, e as mensagens são resenhas fictícias.",
+    "inspiracao_id": "T01",
+    "natureza": "historia_ficcional_original",
+    "personagens": [
+      "nina",
+      "zuleide"
+    ],
+    "direcao": "Nina flerta, coleciona namorados e confusões amorosas; Zuleide é sua confidente e fofoqueira. Humor verbal sem conteúdo explícito.",
+    "ilustracao_nina": "Ponto de vista de Nina: a cena com a vizinhança fala de um morador que recebe mensagens românticas de várias pessoas. Enfatizar objeto, corredor, expressão de surpresa e humor de novela. Sem letreiros nem legendas.",
+    "ilustracao_zuleide": "Ponto de vista de Zuleide: reação investigativa à notícia de a vizinhança fala de um morador que recebe mensagens românticas de várias pessoas., prova visual diferente, close de detalhe, mural de mensagens ou objeto. Sem letreiros nem legendas."
+  }
+]

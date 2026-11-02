@@ -1,0 +1,112 @@
+name: Nina e Zuleide - gerar episodio (sem publicar)
+on:
+  workflow_dispatch:
+    inputs:
+      episodio:
+        description: 'Número do episódio (1 a 50)'
+        required: true
+        type: number
+        default: 1
+      modo_teste:
+        description: 'Apenas teste técnico com roteiro/ilustrações simulados (não publicar)'
+        required: false
+        type: boolean
+        default: false
+concurrency:
+  group: nina-zuleide-${{ github.event.inputs.episodio }}
+  cancel-in-progress: false
+permissions:
+  contents: read
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - name: Obter personagem Nina ORIGINAL
+        uses: actions/checkout@v4
+        with:
+          repository: pabloramoa-dev/nina-me-contou
+          ref: main
+          path: nina_source
+          sparse-checkout: motor
+          persist-credentials: false
+      - name: Obter personagem Zuleide ORIGINAL
+        uses: actions/checkout@v4
+        with:
+          repository: pabloramoa-dev/previsao-sul-fluminense
+          ref: main
+          path: sulflu_source
+          sparse-checkout: reels
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar FFmpeg, Manim, Kokoro e Pillow no runner sem GPU
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q ffmpeg espeak-ng libcairo2-dev libpango1.0-dev pkg-config fonts-dejavu-core
+          python -m pip install -r sulflu_source/reels/requirements.txt
+          python -m pip install pillow numpy
+          ln -s sulflu_source/reels reels
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/dvh_kokoro
+          key: nina-zuleide-kokoro-2026-v1
+      - name: Gerar roteiro ORIGINAL com gancho e final fechado
+        env:
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+        run: |
+          if [[ '${{ inputs.modo_teste }}' == 'true' ]]; then
+            python scripts/gerar_roteiro.py --episode '${{ inputs.episodio }}' --demo
+          else
+            python scripts/gerar_roteiro.py --episode '${{ inputs.episodio }}'
+          fi
+      - name: Criar descrições originais TikTok e Instagram (não publicar)
+        run: python scripts/legendas.py
+      - name: Criar prompts das 2 imagens por cena e gerar ilustrações
+        env:
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+        run: |
+          if [[ '${{ inputs.modo_teste }}' == 'true' ]]; then
+            python scripts/gerar_imagens.py --demo
+          else
+            python scripts/gerar_imagens.py
+          fi
+      - name: Validar imagens distintas em todos os quadros
+        run: python -m unittest discover -s tests -v
+      - name: Gerar falas e risadas originais Kokoro
+        run: python scripts/preparar_audio.py
+      - name: Animar Nina e Zuleide com Manim, close 3x4, ilustracoes diferentes
+        run: |
+          manim --disable_caching --fps 20 --resolution 540,960 scripts/renderizar.py NinaZuleide
+      - name: Finalizar MP4 H.264/AAC e faststart para Android
+        run: |
+          set -euo pipefail
+          SOURCE=$(find media/videos -type f -name 'NinaZuleide.mp4' -print -quit)
+          test -s "$SOURCE"
+          mkdir -p out
+          ffmpeg -y -v error -i "$SOURCE" -i build/audio_completo.wav \
+            -map 0:v:0 -map 1:a:0 -r 20 -vf scale=540:960,format=yuv420p \
+            -c:v libx264 -preset veryfast -crf 24 -profile:v baseline \
+            -c:a aac -b:a 128k -movflags +faststart -shortest \
+            "out/NINA_ZULEIDE_EP_${{ inputs.episodio }}.mp4"
+          ffprobe -v error -show_entries stream=codec_name,width,height:format=duration \
+            -of json "out/NINA_ZULEIDE_EP_${{ inputs.episodio }}.mp4" | tee out/*.qa.json
+          python scripts/validar_video.py "out/NINA_ZULEIDE_EP_${{ inputs.episodio }}.mp4"
+      - name: Entregar MP4 verdadeiro, roteiro, imagens e diagnosticos (sem postagem)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nina-zuleide-ep-${{ inputs.episodio }}${{ inputs.modo_teste && '-TESTE-NAO-PUBLICAR' || '' }}
+          path: |
+            out/*.mp4
+            out/*.qa.json
+            build/roteiro.json
+            build/prompts_imagens.json
+            build/timeline.json
+            build/metadata.json
+            build/legendas_tiktok_instagram.md
+            build/images/**/*.jpg
+          if-no-files-found: warn
+          retention-days: 7

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "S01",
+    "tema": "Entregas constrangedoras de flores ao ex",
+    "url": "https://www.infobae.com/mexico/2025/08/19/joven-lleva-ramo-de-flores-el-patron-a-su-ex-y-descubre-que-ya-tiene-nueva-pareja/",
+    "observacao": "Caso reportado: entrega de flores para ex e nova parceria",
+    "tipo": "video_reportado"
+  },
+  {
+    "id": "S02",
+    "tema": "Bilhete anônimo no prédio",
+    "url": "https://www.infobae.com/virales/2025/05/11/un-vecino-la-invito-a-salir-con-una-nota-y-su-reaccion-se-viralizo-en-tiktok/",
+    "observacao": "Relato publicado de bilhete de vizinho; adaptar sem reproduzir a situação invasiva",
+    "tipo": "video_reportado"
+  },
+  {
+    "id": "S03",
+    "tema": "Flores trocadas com pedido de comida",
+    "url": "https://dailydot.com/uber-eats-mix-up-sushi-flowers",
+    "observacao": "Caso reportado com sete milhões de visualizações no TikTok",
+    "tipo": "video_reportado"
+  },
+  {
+    "id": "S04",
+    "tema": "Flerte interpretado literalmente por mensagem",
+    "url": "https://artear-tn-prod.cdn.arcpublishing.com/tecno/redes-sociales/2026/08/03/una-joven-le-respondio-la-historia-el-no-entendio-el-mensaje-y-tuvo-una-reaccion-impensada-una-vez-al-dia-pienso-en-esto/",
+    "observacao": "Print de conversa que viralizou; usar apenas o mecanismo de mal-entendido",
+    "tipo": "video_reportado"
+  },
+  {
+    "id": "S05",
+    "tema": "Confissão de interesse mal interpretada em story",
+    "url": "https://tn.com.ar/tecno/redes-sociales/2026/04/08/un-chico-respondio-una-historia-de-instagram-con-ingenio-pero-la-respuesta-lo-descoloco-por-completo/",
+    "observacao": "História noticiada de resposta mal interpretada",
+    "tipo": "video_reportado"
+  },
+  {
+    "id": "S06",
+    "tema": "Encontro em dupla inesperado",
+    "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-june-15-2026-bold-wingwoman-turns-dinner-into-instant-double-date-3502487",
+    "observacao": "Vídeo viral relatado por TAG24",
+    "tipo": "video_reportado"
+  },
+  {
+    "id": "S07",
+    "tema": "Vizinhos se conhecem na área do café",
+    "url": "https://people.com/man-stops-virtual-meeting-to-introduce-himself-to-neighbor-now-shes-dating-the-boy-next-door-exclusive-11863439",
+    "observacao": "Relato de TikTok e entrevista, encontro espontâneo entre moradores",
+    "tipo": "video_reportado"
+  },
+  {
+    "id": "S08",
+    "tema": "Bilhetes trocados entre janelas",
+    "url": "https://trending.knowyourmeme.com/editorials/nyc-neighbors-go-viral-for-starting-an-unlikely-friendship-after-one-accidentally-saw-the-other-naked-while-changing-in-the-window",
+    "observacao": "Caso público de bilhetes no prédio; não copiar elementos de privacidade",
+    "tipo": "video_reportado"
+  },
+  {
+    "id": "S09",
+    "tema": "Presente de flores entregue por surpresa",
+    "url": "https://en.cibercuba.com/noticias/2025-07-19-u198484-e198484-s27065-nid307370-esperaba-joven-cuba-sorprende-novia-miami",
+    "observacao": "Vídeo viral noticiado sobre surpresa com flores",
+    "tipo": "video_reportado"
+  },
+  {
+    "id": "S10",
+    "tema": "Suspeita injustificada desfeita por flores",
+    "url": "https://dailydot.com/tiktoker-thought-her-man-was-cheating-then-saw-the-flowers-in-his-truck",
+    "observacao": "Vídeo reportado com virada de expectativa",
+    "tipo": "video_reportado"
+  },
+  {
+    "id": "T01",
+    "tema": "TikTok Next 2026: causos cotidianos e bastidores",
+    "url": "https://ads.tiktok.com/business/pt-BR/next",
+    "observacao": "Relatório de tendências, não vídeo individual",
+    "tipo": "tendencia_pesquisada"
+  },
+  {
+    "id": "T02",
+    "tema": "Instagram Trends 2026: retenção e compartilhamentos",
+    "url": "https://metricool.com/instagram-trends/",
+    "observacao": "Estudo de 2026, não vídeo individual",
+    "tipo": "tendencia_pesquisada"
+  },
+  {
+    "id": "T03",
+    "tema": "Microdramas e humor de relacionamentos",
+    "url": "https://about.fb.com/news/2026/03/social-feeds-are-powering-indias-micro-drama-boom-meta-ormax-report/amp/",
+    "observacao": "Pesquisa de microdramaturgia, não vídeo individual",
+    "tipo": "tendencia_pesquisada"
+  }
+]

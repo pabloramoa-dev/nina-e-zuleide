@@ -1,0 +1,10 @@
+{
+  "projeto": "Nina e Zuleide",
+  "formato": {"largura": 540, "altura": 960, "fps": 20, "duracao_segundos_alvo": 180, "parte_unica": true},
+  "personagens": {
+    "nina": {"papel": "paqueradora e protagonista", "origem": "pabloramoa-dev/nina-me-contou:motor/nina_lib.py", "visual": "close foto 3x4 rosto e ombros"},
+    "zuleide": {"papel": "amiga, confidente e fofoqueira", "origem": "pabloramoa-dev/previsao-sul-fluminense:reels/previsao_lib.py", "visual": "close foto 3x4 maior que antes"}
+  },
+  "imagens": {"provedor": "SiliconFlow", "modelo": "black-forest-labs/FLUX.1-schnell", "cenas": 10, "imagens_por_cena": 2, "imagem_de_nina_diferente_de_zuleide": true, "gerar_prompts_apos_roteiro": true},
+  "regras_editoriais": {"gancho_na_primeira_fala": true, "sem_kugutu": true, "inicio_meio_fim": true, "nunca_publicar_automaticamente": true, "apenas_inspiracao_de_virais": true}
+}
